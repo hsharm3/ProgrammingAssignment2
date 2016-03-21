@@ -33,8 +33,8 @@ cacheSolve <- function(x, ...) {
   inm
 }
 
-#Input
-him2 <- matrix(1:4,2,2)
+##Test Input
+#him2 <- matrix(1:4,2,2)
 
-#Trial Run
-cacheSolve(makeCacheMatrix(him2))
+##Trial Run
+#cacheSolve(makeCacheMatrix(him2))
